@@ -1,5 +1,7 @@
 # Hospital-Readmission-Risk-in-Diabetic-Patients-EDA-PROJECT-
 
+### author: muhamed razin v
+
 ## Project Overview
 
 This project performs a comprehensive Exploratory Data Analysis (EDA) on hospital encounter data of diabetic patients to identify patterns influencing 30-day readmissions.

@@ -36,27 +36,6 @@ Jupyter Notebook
 
 Git & GitHub
 
-### Project Structure
-eda-project/
-│
-├── data/
-│   ├── raw/                # Original dataset
-│   ├── interim/            # Cleaned Day 2 dataset
-│   └── processed/          # Final cleaned dataset (Day 4)
-│
-├── notebooks/
-│   ├── 01_data_overview.ipynb
-│   ├── 02_cleaning_preprocessing.ipynb
-│   ├── 03_univariate_bivariate_eda.ipynb
-│   └── 04_stats_time_features_final_insights.ipynb
-│
-├── reports/
-│   └── figures/            # Exported visualizations
-│
-├── README.md
-└── requirements.txt
-
-
 ## Key Findings
 
 #### Hospital stay duration is significantly associated with readmission.
